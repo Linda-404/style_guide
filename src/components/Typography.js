@@ -38,7 +38,7 @@ function typography() {
                 </div>
 
                 <div className="container" >
-                    <h2>Typefacename example sizes and weight:</h2>
+                    <h2>Typeface example sizes and weight:</h2>
                     <div className="type-ex-display">
                         <h1>This is a heading</h1>
                         <h2>This is a subheading</h2>
